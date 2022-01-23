@@ -6,7 +6,7 @@
 # Strahinya Radich (Страхиња Радић) <contact@strahinja.org>, 2003
 # Slava Zanko <slavazanko@gmail.com>, 2011
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014
-# Strahinya Radich (Страхиња Радић) <contact@strahinja.org>, 2021
+# Strahinya Radich (Страхиња Радић) <contact@strahinja.org>, 2022
 #
 msgid ""
 msgstr ""
