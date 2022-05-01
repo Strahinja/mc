@@ -10,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Midnight Commander\n"
 "Report-Msgid-Bugs-To: http://www.midnight-commander.org/\n"
-"POT-Creation-Date: 2022-03-13 13:31+0300\n"
-"PO-Revision-Date: 2021-07-26 20:16+0000\n"
-"Last-Translator: Transifex Bot <>\n"
+"POT-Creation-Date: 2022-04-10 17:12+0300\n"
+"PO-Revision-Date: 2010-12-29 10:19+0000\n"
+"Last-Translator: Matej Urbančič <>, 2012\n"
 "Language-Team: Slovenian (http://www.transifex.com/mc/mc/language/sl/)\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -2271,12 +2271,6 @@ msgstr "Datoteke označene, želite spremeniti imenik"
 msgid "Cannot change directory"
 msgstr "Ne morem spremeniti imenika"
 
-msgid "Filter"
-msgstr ""
-
-msgid "Set expression for filtering filenames"
-msgstr ""
-
 #, c-format
 msgid "Link %s to:"
 msgstr "Poveži %s na:"
@@ -2874,9 +2868,8 @@ msgstr "&Drevo"
 msgid "&Listing format..."
 msgstr ""
 
-#, fuzzy
 msgid "S&ort order..."
-msgstr "&Vrstni red..."
+msgstr ""
 
 msgid "&Filter..."
 msgstr "&Filter..."
@@ -2890,9 +2883,8 @@ msgstr "FT&P povezava..."
 msgid "S&hell link..."
 msgstr "&Lupinska povezava..."
 
-#, fuzzy
 msgid "&SFTP link..."
-msgstr "FT&P povezava..."
+msgstr ""
 
 msgid "Paneli&ze"
 msgstr ""
@@ -3521,6 +3513,9 @@ msgid "Select"
 msgstr ""
 
 msgid "Unselect"
+msgstr ""
+
+msgid "Filter"
 msgstr ""
 
 msgid "Do you really want to execute?"
@@ -4443,19 +4438,3 @@ msgstr ""
 
 msgid "Cannot fetch a local copy of /ftp://some.host/editme.txt"
 msgstr ""
-
-#~ msgid "Set debug level"
-#~ msgstr "Nastavi stopnjo razhroščevanja"
-
-#, c-format
-#~ msgid "Password for \\\\%s\\%s"
-#~ msgstr "Geslo za \\\\%s\\%s"
-
-#~ msgid "Domain:"
-#~ msgstr "Domena:"
-
-#~ msgid "Username:"
-#~ msgstr "Uporabniško ime:"
-
-#~ msgid "SM&B link..."
-#~ msgstr "SM&B povezava..."

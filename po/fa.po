@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Midnight Commander\n"
 "Report-Msgid-Bugs-To: http://www.midnight-commander.org/\n"
-"POT-Creation-Date: 2022-03-13 13:31+0300\n"
-"PO-Revision-Date: 2021-07-26 20:16+0000\n"
-"Last-Translator: Transifex Bot <>\n"
+"POT-Creation-Date: 2022-04-10 17:12+0300\n"
+"PO-Revision-Date: 2010-12-29 10:19+0000\n"
+"Last-Translator: Arya Hadi <arya.hadi97@gmail.com>, 2017\n"
 "Language-Team: Persian (http://www.transifex.com/mc/mc/language/fa/)\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -2263,12 +2263,6 @@ msgstr ""
 msgid "Cannot change directory"
 msgstr ""
 
-msgid "Filter"
-msgstr "فیلتر"
-
-msgid "Set expression for filtering filenames"
-msgstr ""
-
 #, c-format
 msgid "Link %s to:"
 msgstr ""
@@ -2866,9 +2860,8 @@ msgstr ""
 msgid "&Listing format..."
 msgstr ""
 
-#, fuzzy
 msgid "S&ort order..."
-msgstr "ترتیب مرتب‌سازی"
+msgstr ""
 
 msgid "&Filter..."
 msgstr ""
@@ -3505,6 +3498,9 @@ msgstr "انتخاب"
 
 msgid "Unselect"
 msgstr ""
+
+msgid "Filter"
+msgstr "فیلتر"
 
 msgid "Do you really want to execute?"
 msgstr ""
@@ -4390,9 +4386,3 @@ msgstr ""
 
 msgid "Cannot fetch a local copy of /ftp://some.host/editme.txt"
 msgstr ""
-
-#~ msgid "Set debug level"
-#~ msgstr "تنظیم سطح خطایابی"
-
-#~ msgid "Username:"
-#~ msgstr "نام کاربری:"

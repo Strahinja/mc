@@ -14,9 +14,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Midnight Commander\n"
 "Report-Msgid-Bugs-To: http://www.midnight-commander.org/\n"
-"POT-Creation-Date: 2022-03-13 13:31+0300\n"
-"PO-Revision-Date: 2021-07-26 20:16+0000\n"
-"Last-Translator: Transifex Bot <>\n"
+"POT-Creation-Date: 2022-04-10 17:12+0300\n"
+"PO-Revision-Date: 2010-12-29 10:19+0000\n"
+"Last-Translator: Serdar Sağlam <teknomobil@msn.com>, 2019-2020\n"
 "Language-Team: Turkish (http://www.transifex.com/mc/mc/language/tr/)\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -2358,12 +2358,6 @@ msgstr "Dosyalar işaretli, dizin değişsin mi?"
 msgid "Cannot change directory"
 msgstr "Dizin değiştirilemedi"
 
-msgid "Filter"
-msgstr "Süzgeç"
-
-msgid "Set expression for filtering filenames"
-msgstr "Dosya isimlerini süzmede kullanılacak ifadeyi belirtin"
-
 #, c-format
 msgid "Link %s to:"
 msgstr "%s bağı:"
@@ -3043,9 +3037,8 @@ msgstr "&Ağaç"
 msgid "&Listing format..."
 msgstr "&Listeleme biçimi..."
 
-#, fuzzy
 msgid "S&ort order..."
-msgstr "&Sıralama türü..."
+msgstr ""
 
 msgid "&Filter..."
 msgstr "&Süzgeç..."
@@ -3059,9 +3052,8 @@ msgstr "FT&P bağı..."
 msgid "S&hell link..."
 msgstr "&SSH bağı..."
 
-#, fuzzy
 msgid "&SFTP link..."
-msgstr "FT&P bağı..."
+msgstr ""
 
 msgid "Paneli&ze"
 msgstr "Pane&lle"
@@ -3688,6 +3680,9 @@ msgstr "Seç"
 msgid "Unselect"
 msgstr "Seçme"
 
+msgid "Filter"
+msgstr "Süzgeç"
+
 msgid "Do you really want to execute?"
 msgstr "Gerçekten çalıştırmak istiyor musunuz?"
 
@@ -3990,9 +3985,9 @@ msgstr ""
 msgid "Built with ncursesw (unknown version)"
 msgstr ""
 
-#, fuzzy, c-format
+#, c-format
 msgid "Built with libssh2 %d.%d.%d\n"
-msgstr "Glib ile yapılandır %d.%d.%d\n"
+msgstr ""
 
 msgid "Virtual File Systems:"
 msgstr "Sanal Dosya Sistemleri:"
@@ -4642,54 +4637,5 @@ msgstr "Başından devam edilsin mi?"
 msgid "Cannot fetch a local copy of /ftp://some.host/editme.txt"
 msgstr " /ftp://some.host/editme.txt 'in yerel kopyası alınamadı"
 
-#~ msgid "Set debug level"
-#~ msgstr "Hata ayıklama seviyesini ayarla"
-
-#~ msgid "<integer>"
-#~ msgstr "<integer>"
-
-#, c-format
-#~ msgid "Password for \\\\%s\\%s"
-#~ msgstr "\\\\%s\\%s için parola"
-
-#~ msgid "Domain:"
-#~ msgstr "Alan adı: "
-
-#~ msgid "Username:"
-#~ msgstr "Kullanıcı: "
-
-#~ msgid "SMB authentication"
-#~ msgstr "SMB kimlik doğrulama"
-
-#~ msgid "SMB link to machine"
-#~ msgstr "makinaya SMB bağ"
-
-#~ msgid "SM&B link..."
-#~ msgstr "S&MB bağı..."
-
-#, c-format
-#~ msgid "reconnect to %s failed"
-#~ msgstr "%s ile tekrar bağlantı kurulamadı"
-
-#~ msgid "Authentication failed"
-#~ msgstr "Kimlik denetimi başarısız oldu"
-
-#, c-format
-#~ msgid "Error %s creating directory %s"
-#~ msgstr "%s %s dizinini yaratıyor"
-
-#, c-format
-#~ msgid "Error %s removing directory %s"
-#~ msgstr "%s %s dizinini siliyor"
-
-#, c-format
-#~ msgid "%s opening remote file %s"
-#~ msgstr "%s karşıdaki %s dosyasını açıyor"
-
-#, c-format
-#~ msgid "%s removing remote file %s"
-#~ msgstr "%s karşıdaki %s dosyasını siliyor"
-
-#, c-format
-#~ msgid "%s renaming files\n"
-#~ msgstr "%s dosyaları yeniden adlandırılıyor\n"
+#~ msgid "Set expression for filtering filenames"
+#~ msgstr "Dosya isimlerini süzmede kullanılacak ifadeyi belirtin"

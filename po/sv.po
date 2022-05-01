@@ -3,9 +3,11 @@
 # This file is distributed under the same license as the mc package.
 #
 # Translators:
+# Alexander Kilian <alexander.kilian@gmail.com>, 2022
 # Cybjit <cybjit@gmail.com>, 2012
 # Cybjit <cybjit@gmail.com>, 2012
 # Henrik Mattsson-Mårn <h@reglage.net>, 2016
+# Ingemar Karlsson <ingemar@ingk.se>, 2021
 # Jonas Hultén <jonas@kollektivet.nu>, 2017
 # Jörgen Städje <jorgen@qedata.se>, 2020
 # MagnusHerrlin <m8618@abc.se>, 2016
@@ -16,9 +18,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Midnight Commander\n"
 "Report-Msgid-Bugs-To: http://www.midnight-commander.org/\n"
-"POT-Creation-Date: 2022-03-13 13:31+0300\n"
-"PO-Revision-Date: 2021-07-26 20:16+0000\n"
-"Last-Translator: Transifex Bot <>\n"
+"POT-Creation-Date: 2022-04-10 17:12+0300\n"
+"PO-Revision-Date: 2010-12-29 10:19+0000\n"
+"Last-Translator: Alexander Kilian <alexander.kilian@gmail.com>, 2022\n"
 "Language-Team: Swedish (http://www.transifex.com/mc/mc/language/sv/)\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -1791,6 +1793,8 @@ msgid ""
 "Not an xterm or Linux console;\n"
 "the subshell cannot be toggled."
 msgstr ""
+"Inte en xterm eller linux konsol;\n"
+"Subshell kan inte växlas."
 
 msgid "Type 'exit' to return to the Midnight Commander"
 msgstr "Skriv 'exit' för att återvända till Midnight Commander"
@@ -1818,7 +1822,7 @@ msgstr "Flagga"
 
 #, c-format
 msgid "Permissions (octal): %o"
-msgstr ""
+msgstr "Rättigheter (oktalt): 1%o"
 
 msgid "Chown advanced command"
 msgstr "Avancerat chown-kommando"
@@ -1945,7 +1949,7 @@ msgid "Skin:"
 msgstr "Tema:"
 
 msgid "&Shadows"
-msgstr ""
+msgstr "&Shadows"
 
 msgid "Appearance"
 msgstr "Utseende"
@@ -2166,55 +2170,55 @@ msgstr ""
 "%s"
 
 msgid "Secure deletion"
-msgstr ""
+msgstr "säker radering"
 
 msgid "Undelete"
-msgstr ""
+msgstr "Återställ"
 
 msgid "Synchronous updates"
-msgstr ""
+msgstr "Synkrona uppdateringar"
 
 msgid "Synchronous directory updates"
-msgstr ""
+msgstr "Synkrona kataloguppdateringar"
 
 msgid "Immutable"
-msgstr ""
+msgstr "Oföränderlig"
 
 msgid "Append only"
-msgstr ""
+msgstr "Lägg bara till"
 
 msgid "No dump"
 msgstr ""
 
 msgid "No update atime"
-msgstr ""
+msgstr "Ingen uppdatering atime"
 
 msgid "Compress"
-msgstr ""
+msgstr "Komprimera"
 
 msgid "Compressed clusters"
-msgstr ""
+msgstr "Komprimerade kluster"
 
 msgid "Compressed dirty file"
 msgstr ""
 
 msgid "Compression raw access"
-msgstr ""
+msgstr "Rå åtkomst till komprimeringen"
 
 msgid "Encrypted inode"
-msgstr ""
+msgstr "Krypterad inode"
 
 msgid "Journaled data"
 msgstr ""
 
 msgid "Indexed directory"
-msgstr ""
+msgstr "Indexerad katalog"
 
 msgid "No tail merging"
 msgstr ""
 
 msgid "Top of directory hierarchies"
-msgstr ""
+msgstr "Toppen av katalog hierarkin"
 
 msgid "Inode uses extents"
 msgstr ""
@@ -2226,7 +2230,7 @@ msgid "No COW"
 msgstr ""
 
 msgid "Direct access for files"
-msgstr ""
+msgstr "Direkt åtkomst för filer"
 
 msgid "Casefolded file"
 msgstr ""
@@ -2235,7 +2239,7 @@ msgid "Inode has inline data"
 msgstr ""
 
 msgid "Project hierarchy"
-msgstr ""
+msgstr "Projekt hierarki"
 
 msgid "Verity protected inode"
 msgstr ""
@@ -2362,12 +2366,6 @@ msgstr "Filerna är markerade, vill du byta katalog?"
 
 msgid "Cannot change directory"
 msgstr "Kan inte byta katalog"
-
-msgid "Filter"
-msgstr "Filter"
-
-msgid "Set expression for filtering filenames"
-msgstr "Ange uttryck för filnamnsfiltrering"
 
 #, c-format
 msgid "Link %s to:"
@@ -3053,9 +3051,8 @@ msgstr "&Träd"
 msgid "&Listing format..."
 msgstr "&Listformat..."
 
-#, fuzzy
 msgid "S&ort order..."
-msgstr "&Sorteringsordning..."
+msgstr ""
 
 msgid "&Filter..."
 msgstr "&Filter..."
@@ -3069,9 +3066,8 @@ msgstr "FT&P-länk..."
 msgid "S&hell link..."
 msgstr "S&kallänk..."
 
-#, fuzzy
 msgid "&SFTP link..."
-msgstr "SFTP-l&änk..."
+msgstr ""
 
 msgid "Paneli&ze"
 msgstr "Pa&nelisera"
@@ -3698,6 +3694,9 @@ msgstr "Markera"
 msgid "Unselect"
 msgstr "Avmarkera"
 
+msgid "Filter"
+msgstr "Filter"
+
 msgid "Do you really want to execute?"
 msgstr "Vill du verkligen exekvera?"
 
@@ -3948,7 +3947,7 @@ msgid "With builtin Editor and Aspell support"
 msgstr ""
 
 msgid "With builtin Editor"
-msgstr ""
+msgstr "Med inbyggd redigerare"
 
 msgid "With optional subshell support"
 msgstr ""
@@ -3999,9 +3998,9 @@ msgstr ""
 msgid "Built with ncursesw (unknown version)"
 msgstr ""
 
-#, fuzzy, c-format
+#, c-format
 msgid "Built with libssh2 %d.%d.%d\n"
-msgstr "Byggd med GLib %d.%d.%d\n"
+msgstr ""
 
 msgid "Virtual File Systems:"
 msgstr "Virtuella filsystem:"
@@ -4365,7 +4364,7 @@ msgid "sftp: found host key of unsupported type: RSA1"
 msgstr ""
 
 msgid "sftp: unknown host key type:"
-msgstr ""
+msgstr "sftp: okänd värd nyckel typ"
 
 #, c-format
 msgid ""
@@ -4375,13 +4374,13 @@ msgid ""
 msgstr ""
 
 msgid "sftp: cannot get the remote host key"
-msgstr ""
+msgstr "sftp: kan inte få fjärr-värd nyckel"
 
 msgid "sftp: unsupported key type, can't check remote host key"
 msgstr ""
 
 msgid "sftp: can't compute host key fingerprint hash"
-msgstr ""
+msgstr "sftp: kan inte beräkna värd nyckelns fingeravtryck"
 
 #, c-format
 msgid ""
@@ -4403,7 +4402,7 @@ msgid ""
 msgstr ""
 
 msgid "sftp: host key verification failed"
-msgstr ""
+msgstr "sftp: värd nyckel verifiering fallerade"
 
 #, c-format
 msgid "sftp: Enter passphrase for %s "
@@ -4650,54 +4649,5 @@ msgstr "Fortsätt från början?"
 msgid "Cannot fetch a local copy of /ftp://some.host/editme.txt"
 msgstr "Kan inte hämta en lokal kopia av /ftp://some.host/editme.txt"
 
-#~ msgid "Set debug level"
-#~ msgstr "Ställ in felsökningsnivå"
-
-#~ msgid "<integer>"
-#~ msgstr "<heltal>"
-
-#, c-format
-#~ msgid "Password for \\\\%s\\%s"
-#~ msgstr "Lösenord för \\\\%s\\%s"
-
-#~ msgid "Domain:"
-#~ msgstr "Domän:"
-
-#~ msgid "Username:"
-#~ msgstr "Användarnamn:"
-
-#~ msgid "SMB authentication"
-#~ msgstr "SMB-autentisering"
-
-#~ msgid "SMB link to machine"
-#~ msgstr "SMB-länk till maskin"
-
-#~ msgid "SM&B link..."
-#~ msgstr "SM&B-länk..."
-
-#, c-format
-#~ msgid "reconnect to %s failed"
-#~ msgstr "återuppkoppling till %s misslyckades"
-
-#~ msgid "Authentication failed"
-#~ msgstr "Autentisering misslyckades"
-
-#, c-format
-#~ msgid "Error %s creating directory %s"
-#~ msgstr "Fel %s under skapande av katalog %s"
-
-#, c-format
-#~ msgid "Error %s removing directory %s"
-#~ msgstr "Fel %s under borttagning av katalog %s"
-
-#, c-format
-#~ msgid "%s opening remote file %s"
-#~ msgstr "%s under öppnande av fjärrfil %s"
-
-#, c-format
-#~ msgid "%s removing remote file %s"
-#~ msgstr "%s under borttagning av fjärrfil %s"
-
-#, c-format
-#~ msgid "%s renaming files\n"
-#~ msgstr "%s under omdöpning av filer\n"
+#~ msgid "Set expression for filtering filenames"
+#~ msgstr "Ange uttryck för filnamnsfiltrering"
